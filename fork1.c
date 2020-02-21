@@ -4,7 +4,8 @@
 #include <stdlib.h>
 #include <sys/wait.h>
 //com 
-//com2
+//com2 
+//dla następnych rocznikow
 int main(){
 printf("Pocatek\n");
 if(fork()==0){
