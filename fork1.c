@@ -4,6 +4,7 @@
 #include <stdlib.h>
 #include <sys/wait.h>
 //com 
+//com2
 int main(){
 printf("Pocatek\n");
 if(fork()==0){
