@@ -3,6 +3,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <errno.h>
+
+//odczyt z potoku
 int main(){
 	int pdesk[2];
 	if(pipe(pdesk)==-1){
