@@ -3,7 +3,7 @@
 #include <errno.h>
 #include <stdlib.h>
 #include <sys/wait.h>
-//com
+//com 
 int main(){
 printf("Pocatek\n");
 if(fork()==0){
